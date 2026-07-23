@@ -26,9 +26,7 @@ App URL after launch: `http://localhost:3001`
 
 ### 1) One-click infrastructure button
 
-After you push this repository to GitHub, replace `YOUR_GITHUB_USER` and `YOUR_REPO` in the button URL below.
-
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FYOUR_GITHUB_USER%2FYOUR_REPO%2Fmain%2Finfra%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjerrywolff_microsoft%2Fiptracebackextended%2Fmain%2Finfra%2Fazuredeploy.json)
 
 This creates:
 - Linux App Service Plan
