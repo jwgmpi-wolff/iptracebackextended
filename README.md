@@ -2,6 +2,15 @@
 
 IPTraceback Extended is a Node.js + Express application that decodes obfuscated strings, extracts IP addresses, resolves DNS records, classifies addresses, and geolocates destination IPs from one unified web UI and API.
 
+<!-- project-downloads:start -->
+## APK and installer downloads
+
+No packaged APK or desktop installer is currently published for this repository. The source archive below is not an installer; use the project-specific setup and build instructions.
+
+- [Download the complete source ZIP](https://github.com/jwgmpi-wolff/iptracebackextended/archive/refs/heads/main.zip).
+- [Setup script: deploy-local.ps1](./deploy-local.ps1) (download and extract the complete source ZIP first).
+<!-- project-downloads:end -->
+
 ## Quick Start (Local)
 
 ### Prerequisites
@@ -224,3 +233,9 @@ Finally:
 ## License
 
 MIT
+
+## Copyright
+
+Copyright (c) 2026 Jerry Wolff. See [COPYRIGHT](COPYRIGHT) for the scope of this
+notice. Existing licenses and third-party attribution remain unchanged; this
+notice does not grant additional permissions.
